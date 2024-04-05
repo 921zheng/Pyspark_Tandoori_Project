@@ -1,7 +1,8 @@
 ###
 Project Overview:
 
-![image](https://github.com/921zheng/pyspark_tandoori_project/assets/139349595/d2a830ba-7575-4b71-9afb-33230ad2fed3)
+![image](https://github.com/921zheng/Pyspark_Tandoori_Project/assets/139349595/b56bb237-c9a3-4c13-9a8e-6a7ccca1b3a5)
+
 
 ### 
 Kanban link : https://lihong.kanbantool.com/b/1047651#?
